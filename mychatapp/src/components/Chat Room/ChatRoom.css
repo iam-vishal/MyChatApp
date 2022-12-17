@@ -1,0 +1,31 @@
+.ChatRoom {
+    color: var(--blue);
+    border-radius: 10px;
+}
+
+.ChatArea {
+    height: 450px;
+    overflow-y: scroll;
+}
+
+.ChatRoomTitle {
+    color: var(--blue);
+    font-weight: 700;
+}
+
+.ChatBox1 {
+    color: var(--blue);
+    background-color: var(--blue);
+    color: white;
+    border-radius: 20px 20px 0 20px;
+}
+
+.ChatBox2 {
+    color: var(--blue);
+    background-color: var(--blue);
+    border-radius: 20px 20px 20px 0;
+}
+
+.agoTime {
+    font-size: x-small;
+}

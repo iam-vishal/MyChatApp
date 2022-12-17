@@ -1,0 +1,17 @@
+.entryForm {
+    border-radius: 10px;
+    color: var(--blue);
+}
+
+.formTitle {
+    font-weight: 700;
+}
+
+.submit-btn {
+    background-color: var(--blue);
+    color: white;
+}
+
+.submit-btn:hover {
+    color: white;
+}
